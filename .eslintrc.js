@@ -21,14 +21,5 @@ module.exports = {
     'import/prefer-default-export': 0,
     'max-len': ['error', { code: 120 }],
   },
-  globals: {
-    DEBUG: true,
-    SDK_VERSION: true,
-    STUB_VERSION: true,
-    PLUGIN_VERSION: true,
-    mockBoxConfig: true,
-    $mockBox: true,
-    $YLHUnionAdSdk: true,
-    $YLHSDK: true,
-  },
+  globals: {},
 };

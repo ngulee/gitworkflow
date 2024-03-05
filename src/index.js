@@ -1,2 +1,2 @@
 const a = [];
-console.log('aaa:', a);
+console.log('aaa:', a, {});

@@ -49,7 +49,7 @@ module.exports = {
       name: 'ci:       CI related changes'
     }
   ],
-  scopes: ['UI', '组件'],
+  scopes: ['UI', '组件', 'README.md'],
   messages: {
     type: '请选择提交类型(必填)',
     customScope: '请输入文件修改范围(可选)',

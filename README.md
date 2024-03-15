@@ -26,3 +26,5 @@
 + merge
 + merge rebase
 + merge rebase 练习
+## MR 规范
++ 第一步：git rebase
